@@ -13,3 +13,6 @@ in the L1 I multiplied each element with 2.45 so that I can convert the inches t
 list of centimeters. And created a list comprehension L2 
 
 
+https://www.veed.io/view/e1192ef5-6238-40e2-9536-4fccecdccd15?source=compressor-sharing(Video Link)
+
+
